@@ -1,2 +1,2 @@
 # Calc-GUI
-A simple four function calculator with a gui
+A small project to learn to use the PySimpleGUI library 
